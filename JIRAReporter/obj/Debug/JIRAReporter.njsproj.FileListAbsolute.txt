@@ -1,0 +1,2 @@
+c:\users\pkamdar\documents\visual studio 2015\Projects\JIRAReporter\JIRAReporter\obj\Debug\JIRAReporter.njsprojResolveAssemblyReference.cache
+c:\users\pkamdar\documents\visual studio 2015\Projects\JIRAReporter\JIRAReporter\bin\Microsoft.NodejsTools.WebRole.dll
